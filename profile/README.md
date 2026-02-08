@@ -39,7 +39,6 @@ Hostel owners in India still track tenant dues in registers and notebooks. Payme
 | Repository | Description | Status |
 |------------|-------------|--------|
 | [`hostelkhata.in`](https://github.com/hostelkhata/hostelkhata.in) | Landing page & marketing site | Active |
-| [`brand`](https://github.com/hostelkhata/brand) | Brand assets & guidelines | Active |
 
 ---
 
