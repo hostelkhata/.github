@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Join the Waitlist
+    url: https://hostelkhata.in
+    about: Be first in line when we launch
+  - name: General Questions
+    url: mailto:hello@hostelkhata.in
+    about: For questions not related to bugs or features
+  - name: Twitter
+    url: https://x.com/hostelkhata
+    about: Follow us for updates
